@@ -1,0 +1,8 @@
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.csproj.AssemblyReference.cache
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.AssemblyInfoInputs.cache
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.AssemblyInfo.cs
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.csproj.CoreCompileInputs.cache
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.RazorAssemblyInfo.cache
+C:\Users\zakka\Desktop\BlazingPizza\BlazingPizza.Server\obj\Debug\net5.0\BlazingPizza.Server.RazorAssemblyInfo.cs
